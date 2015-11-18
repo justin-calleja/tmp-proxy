@@ -1,0 +1,27 @@
+{
+  "name": "tmp-proxy",
+  "version": "0.0.1",
+  "description": "Just a dumb proxy to be able to recieve HTTP requests and log out what was sent.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Calleja",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^10.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-calleja/tmp-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "http"
+  ],
+  "bugs": {
+    "url": "https://github.com/justin-calleja/tmp-proxy/issues"
+  },
+  "homepage": "https://github.com/justin-calleja/tmp-proxy#readme"
+}
